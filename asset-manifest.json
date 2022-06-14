@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animal-clinic-appointment-app/static/css/main.6d0d2cbc.css",
+    "main.js": "/animal-clinic-appointment-app/static/js/main.db3f8712.js",
+    "index.html": "/animal-clinic-appointment-app/index.html",
+    "main.6d0d2cbc.css.map": "/animal-clinic-appointment-app/static/css/main.6d0d2cbc.css.map",
+    "main.db3f8712.js.map": "/animal-clinic-appointment-app/static/js/main.db3f8712.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d0d2cbc.css",
+    "static/js/main.db3f8712.js"
+  ]
+}
